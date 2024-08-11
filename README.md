@@ -1,7 +1,7 @@
 # Customer-Churn
 ![WhatsApp Image 2024-08-11 at 2 13 37 PM](https://github.com/user-attachments/assets/52c1e2a3-0267-4546-a544-50d699cab991)
-1-Churn Rate by Unlimited Data Plan:
-Customers with an unlimited data plan show a churn rate of 32.11%, while those without an unlimited data plan have a higher churn rate of 66.61%.
+#1-Churn Rate by Unlimited Data Plan:\
+Customers with an unlimited data plan show a churn rate of 32.11%, while those without an unlimited data plan have a higher churn rate of 66.61%.\
 
 2-Churn Rate by Account Length (in months):
 The churn rate decreases as the account length increases. Customers who have been with the company for a longer period are less likely to churn.
